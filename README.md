@@ -1,5 +1,4 @@
-A Simple Login Form
-‎
+A Simple Login Form.‎
 ‎This is a basic login form built with HTML and JavaScript.
 ‎The form has fields for username and password.
 ‎Styling is applied with JavaScript.
